@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Group</folder>
+	<filename>1(138).jpg</filename>
+	<path>/home/xuan/Projects/202203/Yolo/yolov5/Group/1(138).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QRCode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>202</ymin>
+			<xmax>312</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
